@@ -21,7 +21,7 @@ CLEAR_CACHE = False
 # Take off some zeroes if things are getting slow
 CACHE_WORD_LIMIT = 100000
 
-FILE_FONT = "GoudyBookletter1911.otf"
+FILE_FONT = "Greymarch-Regular.otf"
 FILE_WORDLIST = "lc58k.txt"
 FILE_CACHE = "cache.json" # MAY BE OVERWRITTEN!
 
