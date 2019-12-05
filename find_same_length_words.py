@@ -8,9 +8,11 @@ from kerndump import getKerningPairsFromOTF
 
 # User-editable variables
 
+# This won't take effect until the cache is recalculated
 CASE = "IC" # "UC" / "LC" / "IC" (Initial Cap)
 
 # Shuffle the word list (false = alphabetical order)
+# This won't take effect until the cache is recalculated
 SHUFFLE = True
 
 # Recompute word length values
