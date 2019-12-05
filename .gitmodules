@@ -1,3 +1,6 @@
 [submodule "kern-dump"]
 	path = kern-dump
 	url = https://github.com/adobe-type-tools/kern-dump
+[submodule "kerndump"]
+	path = kerndump
+	url = https://github.com/adobe-type-tools/kern-dump

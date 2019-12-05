@@ -1,8 +1,8 @@
 import json
-import getKerningPairsFromOTF
 
 from fontTools import ttLib
 from random import shuffle
+from kerndump import getKerningPairsFromOTF
 
 # ==================================================
 
